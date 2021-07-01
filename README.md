@@ -13,7 +13,7 @@
 ### Backend :
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/java.png" ></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/dotnet.png"></code>
-<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/netcore.png"></code>
+<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/NetCore.png"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/django.png"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/express.png"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/node-js.png"></code>
