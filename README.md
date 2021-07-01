@@ -22,6 +22,7 @@
 ### Database :
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/mysql.png" ></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/sql.png"></code>
+<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/postgresql.png"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/mongodb.png"></code>
 
 ### ORM and ODM:
