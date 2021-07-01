@@ -39,6 +39,12 @@
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/html.png"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/css.png"></code>
 
+### Other :
+<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/gradle.png" ></code>
+<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/nuget.png" height="32"></code>
+<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/html.png"></code>
+<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/css.png"></code>
+
 
 
 - 🔭 I’m currently working on ...
