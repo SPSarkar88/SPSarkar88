@@ -26,7 +26,7 @@
 
 ### ORM and ODM:
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/hibernate.png" height="32" ></code>
-<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/ef-core.jpeg" height="32"></code>
+<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/ef-core.jpg" height="32"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/sequelize.png"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/mongoose.png" height="32"></code>
 
