@@ -1,6 +1,6 @@
 ### Hello and Welcome to my GitHub profile 👋
 
-#### I'm a Fullstack developer, Freelancer and Udemy instructor.
+#### I'm a Fullstack developer (.Net | JavaScript | Python).
 
 
 <!--### Languages :-->
