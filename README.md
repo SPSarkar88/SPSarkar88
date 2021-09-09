@@ -1,6 +1,6 @@
 ### Hello and Welcome to my GitHub profile 👋
 
-#### I'm a Fullstack developer (.Net | JavaScript | Python).
+#### I'm a Fullstack developer (C# [.Net] | JavaScript [ReactJs | Express ] | Python [Django]).
 
 
 <!--### Languages :-->
