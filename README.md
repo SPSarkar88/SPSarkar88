@@ -1,20 +1,12 @@
 ## Hello and Welcome to my GitHub profile 👋
 
-### I'm a Fullstack developer 
-
-
-#### Languages : CSharp | Python | JavaScript/TypeScript
+### I'm a Fullstack developer. Mostly work in CSharp, Python and JavaScript/TypeScript. 
 
 #### Framework Backend : .Net Framework | .NET Core | .NET | Django | Express
-
 #### Frontend Framework / UI Library : HTML5 | CSS3 | Bootstrap4/5 | SASS | React Js
-
 #### Database : MySQL, SQL Server, PgSQL, MongoDb
-
 #### ORM and ODM : EF | EF Core | Dapper | Sequelize | Mongoose | Django ORM
-
 #### IDE : Visual Studio | Rider | PyCharm | WebStorm | Dreamweaver
-
 #### Package Manager : Nuget | NPM | Yarn
 
 <!--### Languages :-->
