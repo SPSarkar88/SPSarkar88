@@ -4,7 +4,7 @@
 
 
 #### Languages :
-<code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/csharp.png"></code>
+<img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/csharp.png">
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/python.png"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/typescript.png"></code>
 <code><img src="https://raw.githubusercontent.com//SPSarkar88/SPSarkar88/master/asset/javascript.png"></code>
