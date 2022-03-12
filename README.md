@@ -14,6 +14,6 @@ Backend Web Framework - .Net, Spring boot, Django<br>
 Language - C#, Java8+, Python3, TypeScript, JavaScript <br>
 Frontend Library/Framework - React, Angular, Bootstrap, Semantic UI <br>
 Database - MySql, SqlServer, PgSql, MongoDB <br>
-IDE - VS2019/2017, Rider, Intellij IDEA, PyCharm, RubyMine, VS Code, WebStorm, DreamWeaver <br>
+IDE - VS2019/2017, Rider, Intellij IDEA, PyCharm, VS Code, WebStorm, DreamWeaver <br>
 Source Control - Git, Github, BitBucket <br>
 </p>
