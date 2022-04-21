@@ -1,11 +1,11 @@
-<h2 align="center">Hi , I am SP Sarkar </h2>
+<h2 align="center">Hi , I am Subhro Prokash Sarkar </h2>
 <h4 align="center">Fullstack Developer | .NET | Spring Boot | Angular | React </h4>
 <hr/>
 
 <br/>
 <h4 align="left">About Me</h4>
 <p align="left">
- I'm SP, a Full Stack Developer have experienced in <b>Spring (Java)</b> and <b>.Net(C#)</b>. I do have also used Angular and React while developing enterprise and mid level applications. As a freelance developer, I have developed 8+ MVP and Websites including Web services using <b>.Net,</b> <b>Django</b>, <b>Spring Boot</b>. I have al developed frontend using <b>Angular</b> or <b>React</b>. 
+ I am Full Stack Developer have experienced in <b>Spring (Java)</b> and <b>.Net(C#)</b>. I do have also used Angular and React while developing enterprise and mid level applications. As a freelance developer, I have developed 8+ MVP and Websites including Web services using <b>.Net,</b> <b>Django</b>, <b>Spring Boot</b>. I have al developed frontend using <b>Angular</b> or <b>React</b>. 
 
 I love learning ins and outs of technology and sharing knowledge that I have learned through my blogs. I try to follow the best practice while building solutions but sometimes solving problems takes more priority than the best possible industry practice. 
  
