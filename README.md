@@ -14,5 +14,7 @@ Language - C#, Python3, TypeScript, JavaScript <br>
 Frontend Library/Framework - React, Angular, Bootstrap, Semantic UI <br>
 Database - MySql, SqlServer, PgSql, MongoDB <br>
 IDE - VS2019/2022, Rider, VS Code, WebStorm, DreamWeaver(For Web Design) <br>
-Source Control - Git, Github <br>
+Source Control - Git, Github <br><br>
+
+Medium - <a href="https://medium.com/@spsarkar-appxive">My Blogs</a>
 </p>
