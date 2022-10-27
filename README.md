@@ -1,5 +1,5 @@
 <h2 align="center">Hi , I am SP Sarkar </h2>
-<h4 align="center">C# | .NET | Angular | TypeScript </h4>
+<h4 align="center">C# | .NET | Angular Next Js | TypeScript </h4> Developer
 <hr/>
 
 <br/>
