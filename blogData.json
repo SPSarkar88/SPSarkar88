@@ -1,0 +1,455 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "slug": "building-complete-crud-todo-application-angular-dotnet-core",
+      "title": "Building a Complete CRUD Todo Application with Angular and .NET Core",
+      "excerpt": "In this comprehensive tutorial, we'll build a full-stack Todo application using Angular for the frontend and .NET Core Web API for the backend.",
+      "image": "/SPSarkar88/images/thumb/thumb-1240x700.jpg",
+      "author": "Subhra Prakash Sarkar",
+      "publication": "OneZero",
+      "date": "Jun 14",
+      "readTime": "45 min",
+      "category": [".NET", "FrontEnd", "Architecture"],
+      "featured": true,
+      "editorsPick": true,
+      "markdownFile": "angular-dotnet-crud-todo-app.md"
+    },
+    {
+      "id": "2",
+      "slug": "night-my-doorbell-camera-captured-shooting",
+      "title": "The Night My Doorbell Camera Captured a Shooting",
+      "excerpt": "Tech companies need more than advisory boards if they want to build ethical AI systems.",
+      "image": "/SPSarkar88/images/thumb/thumb-700x512.jpg",
+      "author": "Alentica",
+      "publication": "Police",
+      "date": "Jun 16",
+      "readTime": "7 min",
+      "category": "Culture",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "3",
+      "slug": "privacy-just-beginning-debate-over-tech",
+      "title": "Privacy Is Just the Beginning of the Debate Over Tech",
+      "excerpt": "At WWDC, Apple debuted a slew of new features aimed at helping users protect their privacy.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-2.jpg",
+      "author": "Otimus",
+      "publication": "Startup",
+      "date": "May 15",
+      "readTime": "6 min",
+      "category": "Technology",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "4",
+      "slug": "want-make-millions-act-like-millionaire",
+      "title": "Want To Make Millions? Then Act Like a Millionaire",
+      "excerpt": "Excellence is the most important habit you can curate in life because it requires doing things you don't want to do.",
+      "image": "/SPSarkar88/images/thumb/thumb-700x512-2.jpg",
+      "author": "Mark Harris",
+      "publication": "Heated",
+      "date": "May 13",
+      "readTime": "12 min",
+      "category": "Business",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "5",
+      "slug": "what-i-wish-known-drastic-career-change",
+      "title": "What I Wish I'd Known When I Made a Drastic Career Change",
+      "excerpt": "Eight people who took the plunge share the biggest challenges and surprises of starting over. We spend a considerable portion of our time using a web browser and may sometimes need to get a screenshot of a full page in your browser.",
+      "image": "/SPSarkar88/images/thumb/thumb-800x495.jpg",
+      "author": "Steven Job",
+      "publication": "OneZero",
+      "date": "July 15",
+      "readTime": "5 min",
+      "category": "Career",
+      "featured": true,
+      "editorsPick": true
+    },
+    {
+      "id": "6",
+      "slug": "learned-how-die-before-knew-how-live",
+      "title": "I Learned How to Die Before I Knew How to Live",
+      "excerpt": "Tech companies need more than advisory boards if they want.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512.jpg",
+      "author": "Anna Goldfarb",
+      "publication": "Fashion",
+      "date": "March 12",
+      "readTime": "4 min",
+      "category": "Life",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "7",
+      "slug": "interactive-storytelling-future-media",
+      "title": "Is 'Interactive Storytelling' the Future of Media?",
+      "excerpt": "Or does passive and active content serve different purposes?.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-2.jpg",
+      "author": "Furukawa",
+      "publication": "Programing",
+      "date": "March 14",
+      "readTime": "6 min",
+      "category": "Media",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "8",
+      "slug": "how-not-get-30k-bill-firebase",
+      "title": "How NOT to get a $30k bill from Firebase",
+      "excerpt": "Why the dark forests of the internet—podcasts, newsletters.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-3.jpg",
+      "author": "Glorida",
+      "publication": "Living",
+      "date": "April 14",
+      "readTime": "7 min",
+      "category": "Technology",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "9",
+      "slug": "google-cant-figure-out-youtube",
+      "title": "Google Can't Figure Out What YouTube Is",
+      "excerpt": "But Apple still has some A.I. tricks up its sleeve.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-4.jpg",
+      "author": "Rayan Mark",
+      "publication": "GEN",
+      "date": "Jun 14",
+      "readTime": "8 min",
+      "category": "Technology",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "10",
+      "slug": "home-internet-becoming-luxury-wealthy",
+      "title": "Home Internet Is Becoming a Luxury for the Wealthy",
+      "excerpt": "And black on meretriciously regardless well fearless irksomely as about hideous wistful bat less oh much and occasional useful rat darn jeepers far.",
+      "image": "/SPSarkar88/images/thumb/thumb-800x495.jpg",
+      "author": "Dave Gershgorn",
+      "publication": "OneZero",
+      "date": "May 21",
+      "readTime": "5 min",
+      "category": "Technology",
+      "featured": false,
+      "editorsPick": true
+    },
+    {
+      "id": "11",
+      "slug": "why-lack-sleep-bad-for-you",
+      "title": "Why Lack of Sleep is So Bad For You",
+      "excerpt": "A lack of sleep is linked to an incredibly wide range of ailments, from heart disease and Type 2 diabetes to obesity, depression, poor cognitive function, and even Alzheimer's disease.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512.jpg",
+      "author": "Darcy Reeder",
+      "publication": "OneZero",
+      "date": "Jun 17",
+      "readTime": "3 min",
+      "category": "Health",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "12",
+      "slug": "regulators-put-target-apple-back",
+      "title": "Regulators Just Put a Target on Apple's Back",
+      "excerpt": "Excellence is the most important habit you can curate in life because it requires doing things you don't want to do.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-2.jpg",
+      "author": "Azimi Ókalo",
+      "publication": "Freedom",
+      "date": "May 12",
+      "readTime": "8 min",
+      "category": "Culture",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "13",
+      "slug": "apple-designing-post-facebook-world",
+      "title": "Apple Is Designing for a Post-Facebook World",
+      "excerpt": "And black on meretriciously regardless well fearless irksomely as about hideous wistful bat less oh much.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-3.jpg",
+      "author": "Dave Gershgorn",
+      "publication": "OneZero",
+      "date": "Jun 12",
+      "readTime": "7 min",
+      "category": "Technology",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "14",
+      "slug": "resolving-emotional-trauma-ease-chronic-pain",
+      "title": "Can Resolving Emotional Trauma Ease Chronic Pain?",
+      "excerpt": "A new therapy teaches people to process their trauma as a way to treat chronic pain. Does it work?",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512.jpg",
+      "author": "Oliver",
+      "publication": "OneZero",
+      "date": "Jun 14",
+      "readTime": "3 min",
+      "category": "Health",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "15",
+      "slug": "amanda-knox-your-content-my-life",
+      "title": "Amanda Knox: Your Content, My Life",
+      "excerpt": "And up that bee one sexually sheared and by goodness vindictive conscientiously politely less rabbit.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-2.jpg",
+      "author": "George",
+      "publication": "OneZero",
+      "date": "Jun 14",
+      "readTime": "3 min",
+      "category": "Culture",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "16",
+      "slug": "congress-must-act-regulating-deepfakes",
+      "title": "Congress Must Act on Regulating Deepfakes",
+      "excerpt": "Far innocent jay elephant far that rebound less ouch a much the the where pologetic.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-3.jpg",
+      "author": "Harry",
+      "publication": "OneZero",
+      "date": "Jun 14",
+      "readTime": "3 min",
+      "category": "Politics",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "17",
+      "slug": "crab-oblique-meadowlark-lorikeet-far-giraffe",
+      "title": "Crab oblique in meadowlark lorikeet far giraffe",
+      "excerpt": "That less and up awesomely and since far goodness fluidly lame and more youthful.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-4.jpg",
+      "author": "Muhammad",
+      "publication": "OneZero",
+      "date": "Jun 14",
+      "readTime": "3 min",
+      "category": "Nature",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "18",
+      "slug": "slapped-laughed-pithy-gorilla-woodpecker-cuffed",
+      "title": "Then slapped laughed pithy gorilla woodpecker cuffed",
+      "excerpt": "Much quail after thanks as some panthe jeepers across other goodness along goodness.",
+      "image": "/SPSarkar88/images/thumb/thumb-700x512.jpg",
+      "author": "William",
+      "publication": "OneZero",
+      "date": "Jun 14",
+      "readTime": "3 min",
+      "category": "Culture",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "19",
+      "slug": "fondly-much-baboon-towards-over-filled-astride",
+      "title": "Fondly much baboon much a a towards at a over filled astride",
+      "excerpt": "Far under wiped played crassly deceptive shark healthy far the considering trout much.",
+      "image": "/SPSarkar88/images/thumb/thumb-700x512-2.jpg",
+      "author": "Henry",
+      "publication": "OneZero",
+      "date": "Jun 14",
+      "readTime": "3 min",
+      "category": "Life",
+      "featured": false,
+      "editorsPick": false
+    },
+    {
+      "id": "20",
+      "slug": "what-really-happens-airpods-when-they-die",
+      "title": "What Really Happens to AirPods When They Die",
+      "excerpt": "At WWDC, Apple debuted a slew of new features.",
+      "image": "/SPSarkar88/images/thumb/thumb-512x512-4.jpg",
+      "author": "Owen Quinn",
+      "publication": "OneZero",
+      "date": "Jun 14",
+      "readTime": "9 min",
+      "category": "Technology",
+      "featured": false,
+      "editorsPick": false
+    }
+  ],
+  "trending": [
+    {
+      "id": "1",
+      "slug": "president-emails-who-guard-guards",
+      "title": "President and the emails. Who will guard the guards?",
+      "author": "Adam Philip",
+      "publication": "Elemental",
+      "date": "Jan 12",
+      "readTime": "7 min"
+    },
+    {
+      "id": "2",
+      "slug": "how-silence-persistent-ding-modern-life",
+      "title": "How to Silence the Persistent Ding of Modern Life",
+      "author": "Aaron Gell",
+      "publication": "Design",
+      "date": "Feb 18",
+      "readTime": "9 min"
+    },
+    {
+      "id": "3",
+      "slug": "why-we-love-watch",
+      "title": "Why We Love to Watch",
+      "author": "Atlantic",
+      "publication": "Zora",
+      "date": "March 17",
+      "readTime": "6 min"
+    },
+    {
+      "id": "4",
+      "slug": "how-health-apps-let",
+      "title": "How Health Apps Let",
+      "author": "Alentica",
+      "publication": "Police",
+      "date": "Jun 14",
+      "readTime": "3 min"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Technology",
+      "slug": "technology",
+      "count": 45
+    },
+    {
+      "name": "Culture",
+      "slug": "culture",
+      "count": 32
+    },
+    {
+      "name": "Business",
+      "slug": "business",
+      "count": 28
+    },
+    {
+      "name": "Health",
+      "slug": "health",
+      "count": 22
+    },
+    {
+      "name": "Politics",
+      "slug": "politics",
+      "count": 18
+    },
+    {
+      "name": "Life",
+      "slug": "life",
+      "count": 15
+    },
+    {
+      "name": "Career",
+      "slug": "career",
+      "count": 12
+    },
+    {
+      "name": "Media",
+      "slug": "media",
+      "count": 10
+    },
+    {
+      "name": "Nature",
+      "slug": "nature",
+      "count": 8
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "Ryan Mark",
+      "slug": "ryan-mark",
+      "avatar": "/SPSarkar88/images/author-avata-1.jpg",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet ut ligula et semper. Aenean consectetur, est id gravida venenatis.",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "googlePlus": "#"
+      },
+      "postCount": 24
+    },
+    {
+      "id": "2",
+      "name": "Dave Gershgorn",
+      "slug": "dave-gershgorn",
+      "avatar": "/SPSarkar88/images/author-avata-2.jpg",
+      "bio": "Technology writer focusing on AI, automation, and the future of work.",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "linkedin": "#"
+      },
+      "postCount": 18
+    },
+    {
+      "id": "3",
+      "name": "Steven Job",
+      "slug": "steven-job",
+      "avatar": "/SPSarkar88/images/author-avata-3.jpg",
+      "bio": "Career coach and business strategist helping professionals navigate career transitions.",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#"
+      },
+      "postCount": 15
+    }
+  ],
+  "archivePage": {
+    "title": "The Startup",
+    "description": "The Startup provides a scientific approach to creating and managing startups and get a desired product to customers' hands faster",
+    "featuredPost": {
+      "id": "5",
+      "slug": "what-i-wish-known-drastic-career-change",
+      "category": "Editors' Pick",
+      "title": "What I Wish I'd Known When I Made a Drastic Career Change",
+      "excerpt": "Eight people who took the plunge share the biggest challenges and surprises of starting over. We spend a considerable portion of our time using a web browser.",
+      "image": "/SPSarkar88/images/thumb/thumb-1400x778.jpg",
+      "author": "Steven Job",
+      "publication": "OneZero",
+      "date": "July 15",
+      "readTime": "5 min"
+    }
+  },
+  "siteInfo": {
+    "siteName": "Personal Blog",
+    "tagline": "Stories, thoughts and ideas.",
+    "description": "A modern blog platform for sharing stories and ideas",
+    "logo": "/SPSarkar88/images/logo.png",
+    "footerText": "Made with ♥ by Sal @Alithemes",
+    "copyrightYear": 2024
+  },
+  "navigation": {
+    "mainMenu": [
+      { "name": "Home", "path": "/" },
+      { "name": "Archive", "path": "/archive" },
+      { "name": "Categories", "path": "/categories" },
+      { "name": "Author", "path": "/author" },
+      { "name": "Contact", "path": "/contact" },
+      { "name": "Typography", "path": "/typography" }
+    ]
+  },
+  "widgets": {
+    "ads": [
+      {
+        "id": "1",
+        "image": "/SPSarkar88/images/ads/ads-1.png",
+        "link": "#",
+        "alt": "Advertisement"
+      }
+    ]
+  }
+}
