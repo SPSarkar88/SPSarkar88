@@ -10,24 +10,33 @@
       "publication": "OneZero",
       "date": "Jun 14",
       "readTime": "45 min",
-      "category": [".NET", "FrontEnd", "Architecture"],
+      "category": [
+        ".NET",
+        "FrontEnd",
+        "Architecture"
+      ],
       "featured": true,
       "editorsPick": true,
       "markdownFile": "angular-dotnet-crud-todo-app.md"
     },
     {
       "id": "2",
-      "slug": "night-my-doorbell-camera-captured-shooting",
-      "title": "The Night My Doorbell Camera Captured a Shooting",
-      "excerpt": "Tech companies need more than advisory boards if they want to build ethical AI systems.",
+      "slug": "graceful-error-handling-net",
+      "title": "Graceful Error Handling in .NET: A Comprehensive Guide",
+      "excerpt": "Learn how to implement robust error handling in .NET 8/9 Web APIs using Global Exception Handling, ProblemDetails, and Serilog.",
       "image": "/SPSarkar88/images/thumb/thumb-700x512.jpg",
-      "author": "Alentica",
-      "publication": "Police",
-      "date": "Jun 16",
-      "readTime": "7 min",
-      "category": "Culture",
+      "author": "Subhra Prakash Sarkar",
+      "publication": "Tech",
+      "date": "Jan 24",
+      "readTime": "10 min",
+      "category": [
+        ".NET",
+        "Backend",
+        "Best Practices"
+      ],
       "featured": false,
-      "editorsPick": false
+      "editorsPick": false,
+      "markdownFile": "graceful-error-handling-net.md"
     },
     {
       "id": "3",
@@ -434,12 +443,30 @@
   },
   "navigation": {
     "mainMenu": [
-      { "name": "Home", "path": "/" },
-      { "name": "Archive", "path": "/archive" },
-      { "name": "Categories", "path": "/categories" },
-      { "name": "Author", "path": "/author" },
-      { "name": "Contact", "path": "/contact" },
-      { "name": "Typography", "path": "/typography" }
+      {
+        "name": "Home",
+        "path": "/"
+      },
+      {
+        "name": "Archive",
+        "path": "/archive"
+      },
+      {
+        "name": "Categories",
+        "path": "/categories"
+      },
+      {
+        "name": "Author",
+        "path": "/author"
+      },
+      {
+        "name": "Contact",
+        "path": "/contact"
+      },
+      {
+        "name": "Typography",
+        "path": "/typography"
+      }
     ]
   },
   "widgets": {
